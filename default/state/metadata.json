@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "config": {
+    "bundle": {
+      "name": "it-asset-tracker",
+      "target": "default",
+      "git": {
+        "bundle_root_path": "."
+      }
+    },
+    "workspace": {
+      "file_path": "/Workspace/Users/sowmighapriyanka@gmail.com/.bundle/it-asset-tracker/default/files"
+    },
+    "resources": {},
+    "presets": {
+      "source_linked_deployment": false
+    }
+  },
+  "extra": {}
+}
